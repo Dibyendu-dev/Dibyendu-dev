@@ -4,19 +4,47 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there!+👋;I'm+Dibyendu+Das!;Full+Stack+Developer+%7C+MERN+%7C+Go+%7C+Microservices" alt="Dibyendu Das" />
 </h1>
 
-<p align="center">
-  <a href="https://ddasdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ddasdev.vercel.app-1abc9c?style=flat-square&logo=vercel&logoColor=white"></a>
-  <a href="mailto:ddas4548@gmail.com"><img src="https://img.shields.io/badge/Email-ddas4548@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/Dibyendu-dev"><img src="https://img.shields.io/badge/LinkedIn-Dibyendu--dev-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-</p>
+
+
+## 🧑‍💻 About Me  
+
+Hey there! I'm **Dibyendu Das**, a passionate **Full Stack Developer** who loves turning complex problems into elegant and scalable solutions.  
+I specialize in **JavaScript, TypeScript, and Golang**, crafting efficient backends and interactive UIs using modern frameworks like **React** and **Express**.  
+
+I’m deeply fascinated by how systems work under the hood — from **API design** and **database performance tuning** to **distributed systems** and **real-time communication**.  
+Building **microservices-based architectures** that are modular, resilient, and production-ready is my current obsession.  
+
+💡 **What drives me** is not just writing code — but understanding the *why* behind every line, optimizing performance, and designing systems that scale gracefully.  
 
 ---
 
-## 🧑‍💻 About Me
+### 🌍 Beyond Coding, I’m Exploring
 
-💡 **Full Stack Developer** with a strong foundation in **MERN Stack**, **TypeScript**, and **Golang**  
-🚀 Passionate about **Microservices Architecture**, **Scalable Systems**, and **Cloud Engineering**  
-⚙️ I love designing **resilient backends** and **elegant UIs** that solve real-world problems  
+- 🧠 **System Design & Concurrency Patterns** in Go  
+- ☁️ **Cloud-Native Deployments** with Docker and AWS  
+- ⚙️ **Automation & CI/CD pipelines** for streamlined DevOps  
+- 🧩 **Design Patterns & Software Architecture** for maintainable systems  
+
+---
+
+### 🎯 My Mission
+
+To become a **top-tier software engineer** capable of designing and delivering **end-to-end, production-grade systems** —  
+from concept and architecture to deployment and scaling.  
+
+I believe in **continuous learning**, **deep problem-solving**, and **creating technology that empowers people**.  
+
+---
+
+### 🤝 Let’s Connect
+
+📬 Always open to collaborating on:  
+- 🚀 Open-source projects  
+- 💡 Innovative startups or SaaS ideas  
+- 🧩 Scalable backend systems & real-world tech solutions  
+
+If you’re passionate about clean code, architecture, and innovation — we’ll get along great 😄
+ 
 
 
 ---
@@ -46,19 +74,8 @@
 
 
 
-
-
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:ddas4548@gmail.com"><img src="https://img.shields.io/badge/Gmail-ddas4548%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/Dibyendu-dev"><img src="https://img.shields.io/badge/LinkedIn-Dibyendu%20Das-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://ddasdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ddasdev.vercel.app-1abc9c?style=for-the-badge&logo=vercel&logoColor=white"></a>
-</p>
-
----
 
 
 
