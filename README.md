@@ -1,7 +1,7 @@
 <!-- Animated Dark Themed GitHub Profile README for Dibyendu Das -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there!+👋;I'm+Dibyendu+Das!;Full+Stack+Developer+%7C+MERN+%7C+Go+%7C+Microservices" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there!+👋;I'm+Dibyendu+Das!;Full+Stack+Developer+%7C+MERN+%7C+Go+%7C+Microservices" alt="Dibyendu Das" />
 </h1>
 
 <p align="center">
@@ -60,9 +60,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dibyendu-dev&theme=darkhub&no-frame=true&margin-w=10" />
-</p>
+
 
 <p align="center">⭐️ Crafted with ❤️ by <a href="https://github.com/Dibyendu-dev">Dibyendu Das</a></p>
 
